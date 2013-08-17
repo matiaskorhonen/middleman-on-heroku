@@ -18,7 +18,7 @@ side effect of that.
 
 Read the tutorial here: <http://randomerrata.com/post/56163474367/middleman-on-heroku>
 
-That will probably be enough. If you want to dig into the steps, the after each step I committed the changes and tagged the commit with which step it was.
+That will probably be enough. If you want to dig into the steps, then after each step I committed the changes and tagged the commit with which step it was.
 
 The code changes after each step in that tutorial are tagged in this repo.
 
